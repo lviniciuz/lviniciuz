@@ -3,7 +3,7 @@
     <text align="center">
 ## Olá, eu sou o Lucas Vinicius! 
 </div>
-    <text align="center">
+
 ![lviniciuz GitHub stats](https://github-readme-stats.vercel.app/api?username=lviniciuz&show_icons=true&theme=radical)
 
 ## Tecnologias que eu utilizo no meu dia:
