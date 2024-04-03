@@ -1,6 +1,6 @@
 ![lviniciuz GitHub animation](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 
-## Olá, eu sou o vini! 
+## Olá, eu sou o Lucas Vinicius! 
 
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.viniciuz/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-a58431301/)
