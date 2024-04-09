@@ -1,6 +1,4 @@
-![lviniciuz GitHub animation](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
-    <div>
-    <text align="center">
+   <text align="center">
 ## Olá, eu sou o Lucas Vinicius! 
 </div>
 
