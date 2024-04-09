@@ -1,4 +1,3 @@
-   <text align="center">
 ## Olá, eu sou o Lucas Vinicius! 
 </div>
 
