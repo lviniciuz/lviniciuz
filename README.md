@@ -1,6 +1,6 @@
 
 
-<p align="center">Olá, sou o Lv. <br><br> Sou apaixonado por tecnologia e desenvolvimento web, com um grande interesse em me tornar um desenvolvedor full stack. Mesmo sendo novo na área, estou constantemente aprendendo e experimentando novas tecnologias. Meu objetivo é criar soluções inovadoras e funcionais, contribuindo para projetos que façam a diferença. Este é o começo da minha jornada, e estou animado para ver onde ela me levará..</p>&nbsp;
+<p align="center">Olá, sou o Lv. <br><br> Sou apaixonado por tecnologia e desenvolvimento web, com um grande interesse em me tornar um desenvolvedor full stack. Mesmo sendo novo na área, estou constantemente aprendendo e experimentando novas tecnologias. Meu objetivo é criar soluções inovadoras e funcionais, contribuindo para projetos que façam a diferença. Este é o começo da minha jornada, e estou animado para ver onde ela me levará.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lviniciuz&theme=radical&mode=weekly" />
