@@ -10,12 +10,9 @@
  
  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lviniciuz&bg_color=000000&color=00ff4c&line=00ff04&point=ffffff&area=true&hide_border=true)
  
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Main Stack:
 
@@ -23,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### Studying in this moment:
 
@@ -33,8 +30,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+
 
 ## Contacts:
 
